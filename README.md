@@ -7,4 +7,4 @@
 
 ## 5 orgs Comparison2 [visualization](5orgs_detail1123.md)
 
-## All zipcode density Comparison3 [visualization](All zipcode density.md)
+## All zipcode density Comparison3 [visualization](All_zipcode_density.md)
